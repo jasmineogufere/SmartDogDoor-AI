@@ -19,5 +19,4 @@ Hardware| Arduino Uno                    |                  |Must match correct 
 	      |External webcam                 |                  |                                                                               |
 	      |5V power from Arduino           |		              |LCD will not turn on without 5V + GND                                          |
 
-        <img width="1280" height="488" alt="Hardware Diagram visual" src="https://github.com/user-attachments/assets/539e8f4f-9e95-471d-a654-702e5f3c01b0" />
 
